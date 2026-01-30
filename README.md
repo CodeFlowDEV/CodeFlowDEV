@@ -18,7 +18,7 @@
 
 ---
 
-### 📜 Mission Statement
+### 👋 Welcome
 Welcome to the GitHub home of **CodeFlow**. While my premium work focuses on complex **Military, PvP, and Hardcore Survival** systems, I believe every server needs a solid foundation.
 
 Here, you will find my **"Standard Issue"** collection—free, lightweight, and optimized scripts to improve your server's quality of life.
@@ -34,9 +34,11 @@ My store offers advanced systems protected by CFX Escrow, with affordable pricin
 * **🏹 Survival**
 * **⚔️ PVP**
 
+---
+
 > *"We offer a promising price, but our open source scripts are a bit higher to avoid code leaking."*
 
 ---
 
 ### 🔧 Tech Stack
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![FiveM](https://img.shields.io/badge/FiveM-F43F5E?style=for-the-badge&logo=fivem&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![FiveM](https://img.shields.io/badge/FiveM-F43F5E?style=for-the-badge&logo=fivem&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
