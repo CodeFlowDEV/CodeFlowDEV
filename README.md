@@ -22,7 +22,7 @@ Here, you will find my **"Standard Issue"** collection—free, lightweight, and 
 
 ---
 
-### 💣 Premium Armory (Tebex)
+### 💣 Premium Scripts (Tebex)
 *Looking for the heavy hitters?*
 My store offers advanced systems protected by CFX Escrow, with affordable pricing to avoid the "overpriced script" trend.
 
