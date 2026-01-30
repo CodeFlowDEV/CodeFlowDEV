@@ -8,12 +8,10 @@
   <a href="https://discord.com/invite/nATnmTHeXu">
     <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  
   <a href="https://codeflow-scripts.tebex.io/">
     <img src="https://img.shields.io/badge/Store-Visit%20Tebex-C5A065?style=for-the-badge&logo=tebex&logoColor=white" alt="Tebex"/>
   </a>
-  
-  <a href="[LINK_A_YOUTUBE_CSATORNADHOZ]">
+  <a href="https://www.youtube.com/@C0d3Fl0w01">
     <img src="https://img.shields.io/badge/YouTube-Watch%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
