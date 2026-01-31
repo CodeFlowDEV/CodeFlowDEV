@@ -4,18 +4,7 @@
 
 ### *High-Quality Survival & Military Solutions*
 
-
-<p align="center">
-  <a href="https://discord.com/invite/nATnmTHeXu">
-    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://codeflow-scripts.tebex.io/">
-    <img src="https://img.shields.io/badge/Store-Visit%20Tebex-C5A065?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik03IDE4Yy0xLjEgMC0xLjk5LjktMS45OSAyUzUuOSAyMiA3IDIyczItLjkgMi0yLS45LTItMi0yek0xIDJ2MmgybDMuNiA3LjU5LTEuMzUgMi40NWMtLjE2LjI4LS4yNS42MS0uMjUuOTYgMCAxLjEuOSAyIDIgMmgxMnYtMkg3LjQyYy0uMTQgMC0uMjUtLjExLS4yNS0uMjVsLjAzLS4xMi45LTEuNjNoNy40NWMuNzUgMCAxLjQxLS40MSAxLjc1LTEuMDNsMy41OC02LjQ5Yy4wOC0uMTQuMTItLjMxLjEyLS40OCAwLS41NS0uNDUtMS0xLTFHNS4yMWwtOTQtMkgxem0xNiAxNmMtMS4xIDAtMS45OS45LTEuOTkgMnMuODkgMiAxLjk5IDIgMi0uOSAyLTItLjktMi0yLTJ6Ii8%2bPC9zdmc%2b" alt="Store"/>
-  </a>
-  <a href="https://www.youtube.com/@C0d3Fl0w01">
-    <img src="https://img.shields.io/badge/YouTube-Watch%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
+<p align="center"><a href="https://discord.com/invite/nATnmTHeXu"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a><a href="https://codeflow-scripts.tebex.io/"><img src="https://img.shields.io/badge/Store-Visit%20Tebex-C5A065?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTAgMGgyNHYyNEgwVjB6IiBmaWxsPSJub25lIi8+PHBhdGggZD0iTTE1LjU1IDEzYy43NSAwIDEuNDEtLjQxIDEuNzUtMS4wM2wzLjU4LTYuNDljLjM3LS42Ni0uMTEtMS40OC0uODctMS40OEg1LjIxbC0uOTQtMkgxdjJoMmwzLjYgNy41OS0xLjM1IDIuNDRDNC41MiAxNS4zNyA1LjQ4IDE3IDcgMTdoMTJ2LTJIN2wxLjEtMmg3LjQ1ek02LjE2IDZoMTIuMTVsLTIuNzYgNUg4LjUzTDYuMTYgNnpNNyAxOGMtMS4xIDAtMS45OS45LTEuOTkgMlM1LjkgMjIgNyAyMnMyLS45IDItMi0uOS0yLTItMnptMTAgMGMtMS4xIDAtMS45OS45LTEuOTkgMnMuODkgMiAxLjk5IDIgMi0uOSAyLTItLjktMi0yLTJ6Ii8+PC9zdmc+" alt="Store"/></a><a href="https://www.youtube.com/@C0d3Fl0w01"><img src="https://img.shields.io/badge/YouTube-Watch%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a></p>
 
 **4+ Years Experience** • **Lua & UI Specialist** • **Optimized for FiveM**
 
