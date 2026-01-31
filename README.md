@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="250" height="250" alt="CodeFlow" src="https://github.com/user-attachments/assets/9d765d02-f654-496a-9732-07f621a120ff" />
+<img width="1559" height="414" alt="CodeFlow" src="https://github.com/user-attachments/assets/d5a9e43f-6b50-49e5-85a6-e2c42f381e08" />
 
 ### *High-Quality Survival & Military Solutions*
 
