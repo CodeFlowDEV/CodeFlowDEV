@@ -10,38 +10,43 @@
 
 </div>
 
----
+<h2 align="center">👋 Welcome</h2>
 
-### 👋 Welcome
-Welcome to the GitHub home of **CodeFlow**. While my premium work focuses on complex **Military, PvP, and Hardcore Survival** systems, I believe every server needs a solid foundation.
+<p align="center">
+  <b>Welcome to the GitHub home of CodeFlow.</b>
+</p>
 
-Here, you will find my **"Standard Issue"** collection—free, lightweight, and optimized scripts to improve your server's quality of life.
+While my premium work focuses on complex **Military, PvP, and Hardcore Survival** systems, I believe every server needs a solid foundation. Here, you will find my **"Standard Issue"** collection—free, lightweight, and fully optimized scripts designed to improve your server's quality of life without the bloat.
 
----
+<br>
 
-### ⭐ Premium Scripts (Tebex)
-*Looking for the heavy hitters?*
-My store offers advanced systems protected by CFX Escrow, with affordable pricing to avoid the "overpriced script" trend.
+<h2 align="center">⭐ Premium Scripts (Tebex)</h2>
 
-> **Scripts I focus on:**
-* **🪖 Military**
-* **🏹 Survival**
-* **⚔️ PVP**
+<p align="center">
+  <b>Ready to upgrade your server's core mechanics?</b>
+</p>
 
----
+My store offers advanced, heavy-hitting systems protected by CFX Escrow. I aim to break the "overpriced script" trend by offering high-end, competitive code at affordable prices.
 
-> *"We offer competitive pricing, though our open-source scripts are priced higher to protect intellectual property and prevent leaking."*
+### 🛡️ Core Focus Areas:
 
----
+* 🪖 **Military Systems:** Advanced tactical tools and hierarchy management.
+* 🩹 **Survival Mechanics:** Hardcore health, injury, and status systems.
+* ⚔️ **PvP Enhancements:** Balanced and engaging combat scripts.
 
-### 🔧 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/FiveM-F43F5E?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="Tailwindcss" />
+> 💡 **Note:** *We offer competitive pricing on the store, though our open-source scripts are priced higher to protect intellectual property and prevent leaking.*
+
+<br>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/FiveM-F43F5E?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
 </p>
