@@ -10,36 +10,39 @@
 
 </div>
 
+## &nbsp;
 <h2 align="center">👋 Welcome</h2>
 
 <p align="center">
   <b>Welcome to the GitHub home of CodeFlow.</b>
 </p>
+<p align="center">
+While my premium work focuses on complex <b>Military, PvP, and Hardcore Survival</b> systems, I believe every server needs a solid foundation. Here, you will find my <b>"Standard Issue"</b> collection—free, lightweight, and fully optimized scripts designed to improve your server's quality of life without the bloat.
+</p>
 
-While my premium work focuses on complex **Military, PvP, and Hardcore Survival** systems, I believe every server needs a solid foundation. Here, you will find my **"Standard Issue"** collection—free, lightweight, and fully optimized scripts designed to improve your server's quality of life without the bloat.
-
-<br>
-
+## &nbsp;
 <h2 align="center">⭐ Premium Scripts (Tebex)</h2>
 
 <p align="center">
   <b>Ready to upgrade your server's core mechanics?</b>
 </p>
-
+<p align="center">
 My store offers advanced, heavy-hitting systems protected by CFX Escrow. I aim to break the "overpriced script" trend by offering high-end, competitive code at affordable prices.
+</p>
 
-### 🛡️ Core Focus Areas:
-
-* 🪖 **Military Systems:** Advanced tactical tools and hierarchy management.
-* 🩹 **Survival Mechanics:** Hardcore health, injury, and status systems.
-* ⚔️ **PvP Enhancements:** Balanced and engaging combat scripts.
-
-> 💡 **Note:** *We offer competitive pricing on the store, though our open-source scripts are priced higher to protect intellectual property and prevent leaking.*
+<div align="center">
+  <h3>🛡️ Core Focus Areas:</h3>
+  <p>🪖 <b>Military Systems:</b> Advanced tactical tools and hierarchy management.</p>
+  <p>🩹 <b>Survival Mechanics:</b> Hardcore health, injury, and status systems.</p>
+  <p>⚔️ <b>PvP Enhancements:</b> Balanced and engaging combat scripts.</p>
+</div>
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+> “We offer competitive pricing, though our open-source scripts are priced higher to protect intellectual property and prevent leaking.”
 
+## &nbsp;
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
   <img src="https://img.shields.io/badge/FiveM-F43F5E?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM">
